@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+- it creates a hidden directory
+- the hidden directory holds meta data for future commits
